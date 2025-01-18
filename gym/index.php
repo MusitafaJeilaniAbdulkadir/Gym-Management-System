@@ -66,6 +66,41 @@ echo "<script>window.location.href='booking-history.php'</script>";
 	</section>
 
 
+	<section class="pricing-section ">
+		<div class="container">
+			<div class="section-title text-center">
+				<h2>Our Services</h2>
+				<p>We offer all gym services</p>
+			</div>
+			<div class="section-title text-center">
+				<img src="img/video.jpg" alt="">
+				<h2>Arm Excercises</h2>
+			</div>
+			<div class="section-title text-center">
+				<img src="img/video.jpg" alt="">
+				<h2>Leg Excercises</h2>
+			</div>
+			<div class="section-title text-center">
+				<img src="img/video.jpg" alt="">
+				<h2>Chest Excercises</h2>
+			</div>
+			<div class="section-title text-center">
+				<img src="img/video.jpg" alt="">
+				<h2>Full body Excercises</h2>
+			</div>
+			<div class="section-title text-center">
+				<img src="img/video.jpg" alt="">
+				<h2>Strength Excercises</h2>
+			</div>
+			<div class="section-title text-center">
+				<img src="img/video.jpg" alt="">
+				<h2>Weight Excercises</h2>
+			</div>
+		</div>
+
+	</section>
+
+
 
 	<!-- Pricing Section -->
 	<section class="pricing-section spad">
